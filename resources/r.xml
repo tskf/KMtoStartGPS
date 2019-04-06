@@ -1,0 +1,4 @@
+<resources>
+<string id="n">Start</string>
+<bitmap id="i" filename="i.png"/>
+</resources>
